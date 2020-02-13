@@ -1,0 +1,23 @@
+Enter Normal mode
+Exit DISCARDING any changes you have made
+Delete the character under the cursor
+Insert text
+Append text
+Append text after the line
+Save to a file and exit
+Delete until the start of the next word
+Delete to the end of the current word
+Delete to the end of the line
+Move the cursor two words forward
+Move the cursor to the end of the third word forward
+Move to the start of the line
+Delete a whole line
+Delete from the cursor up to the next word
+Delete from the cursor to the end of a line
+Delete the next two words
+Undo the last action
+Undo all the changes on a line
+Put previously deleted text after the cursor
+Replace the character at the cursor with x
+change from the cursor to the end of the word
+change from the cursor to the end of a line
