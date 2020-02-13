@@ -19,5 +19,22 @@ Undo the last action
 Undo all the changes on a line
 Put previously deleted text after the cursor
 Replace the character at the cursor with x
-change from the cursor to the end of the word
-change from the cursor to the end of a line
+Change from the cursor to the end of the word
+Change from the cursor to the end of a line
+Show your location in the file and the file status
+Move you to the bottom of the file
+Move you to the start of the file
+Search for a phrase in the forward direction
+Search for a phrase in the backward direction
+Search for the same phrase again
+Search for the same phrase in the opposite direction
+Go back to where you came from
+Find a matching ),], or }
+Substitute new for the first old in a line
+Substitute new for all 'old's on a line
+Substitute all occurrences in the file
+Substitute phrases between line 1 and 10
+Execute an external command
+Insert the contents of a file
+Open up a line BELOW the cursor and place you in Insert mode
+Open up a line ABOVE the cursor and place you in Insert mode
